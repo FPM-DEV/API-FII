@@ -40,13 +40,13 @@
     },
     {
         "Ticker": "AFHI11",
-        "Cotação": "R$ 94,35",
+        "Cotação": "R$ 94,51",
         "Cotistas": "38,8K",
         "Liquidez média diária": "653,3K",
         "P/ VP": "1,00",
         "Patrimônio líquido": "500,8M",
         "VP por Cota": "94,67",
-        "Yield 12 meses": "12,79",
+        "Yield 12 meses": "12,77",
         "Yield mensal": "9,28",
         "Último rendimento": "1,03",
         "Último rendimento calculado": "1.09"
@@ -92,13 +92,13 @@
     },
     {
         "Ticker": "ALZC11",
-        "Cotação": "R$ 7,32",
+        "Cotação": "R$ 7,31",
         "Cotistas": "11,0K",
         "Liquidez média diária": "273,7K",
         "P/ VP": "0,81",
         "Patrimônio líquido": "177,1M",
         "VP por Cota": "9,08",
-        "Yield 12 meses": "16,69",
+        "Yield 12 meses": "16,72",
         "Yield mensal": "6,85",
         "Último rendimento": "0,12",
         "Último rendimento calculado": "1.64"
@@ -118,13 +118,13 @@
     },
     {
         "Ticker": "ALZR11",
-        "Cotação": "R$ 9,93",
+        "Cotação": "R$ 9,92",
         "Cotistas": "203,1K",
         "Liquidez média diária": "2,9M",
         "P/ VP": "0,92",
         "Patrimônio líquido": "1,8B",
         "VP por Cota": "10,78",
-        "Yield 12 meses": "10,10",
+        "Yield 12 meses": "10,11",
         "Yield mensal": "9,50",
         "Último rendimento": "0,08",
         "Último rendimento calculado": "0.81"
@@ -469,16 +469,16 @@
     },
     {
         "Ticker": "BCRI11",
-        "Cotação": "R$ 59,81",
+        "Cotação": "R$ 59,50",
         "Cotistas": "40,5K",
         "Liquidez média diária": "308,2K",
-        "P/ VP": "0,71",
+        "P/ VP": "0,70",
         "Patrimônio líquido": "530,8M",
         "VP por Cota": "84,82",
-        "Yield 12 meses": "16,25",
+        "Yield 12 meses": "16,34",
         "Yield mensal": "6,94",
         "Último rendimento": "0,79",
-        "Último rendimento calculado": "1.32"
+        "Último rendimento calculado": "1.33"
     },
     {
         "Ticker": "BETW11",
@@ -781,26 +781,26 @@
     },
     {
         "Ticker": "BRCO11",
-        "Cotação": "R$ 113,20",
+        "Cotação": "R$ 113,10",
         "Cotistas": "138,2K",
         "Liquidez média diária": "5,4M",
         "P/ VP": "0,98",
         "Patrimônio líquido": "2,1B",
         "VP por Cota": "115,05",
-        "Yield 12 meses": "9,61",
+        "Yield 12 meses": "9,62",
         "Yield mensal": "3,28",
         "Último rendimento": "1,05",
         "Último rendimento calculado": "0.93"
     },
     {
         "Ticker": "BRCR11",
-        "Cotação": "R$ 40,12",
+        "Cotação": "R$ 40,10",
         "Cotistas": "111,6K",
         "Liquidez média diária": "1,1M",
         "P/ VP": "0,50",
         "Patrimônio líquido": "2,1B",
         "VP por Cota": "80,64",
-        "Yield 12 meses": "12,26",
+        "Yield 12 meses": "12,27",
         "Yield mensal": "1,28",
         "Último rendimento": "0,41",
         "Último rendimento calculado": "1.02"
@@ -911,13 +911,13 @@
     },
     {
         "Ticker": "BTCI11",
-        "Cotação": "R$ 9,13",
+        "Cotação": "R$ 9,11",
         "Cotistas": "211,6K",
         "Liquidez média diária": "2,9M",
         "P/ VP": "0,90",
         "Patrimônio líquido": "1,0B",
         "VP por Cota": "10,10",
-        "Yield 12 meses": "12,84",
+        "Yield 12 meses": "12,87",
         "Yield mensal": "1,89",
         "Último rendimento": "0,10",
         "Último rendimento calculado": "1.10"
@@ -937,13 +937,13 @@
     },
     {
         "Ticker": "BTHF11",
-        "Cotação": "R$ 8,95",
+        "Cotação": "R$ 8,93",
         "Cotistas": "315,2K",
         "Liquidez média diária": "3,1M",
         "P/ VP": "0,91",
         "Patrimônio líquido": "2,0B",
         "VP por Cota": "9,86",
-        "Yield 12 meses": "13,09",
+        "Yield 12 meses": "13,12",
         "Yield mensal": "8,20",
         "Último rendimento": "0,10",
         "Último rendimento calculado": "1.12"
@@ -989,13 +989,13 @@
     },
     {
         "Ticker": "BTLG11",
-        "Cotação": "R$ 101,01",
+        "Cotação": "R$ 101,17",
         "Cotistas": "505,9K",
         "Liquidez média diária": "9,4M",
-        "P/ VP": "0,94",
+        "P/ VP": "0,95",
         "Patrimônio líquido": "7,4B",
         "VP por Cota": "107,04",
-        "Yield 12 meses": "9,47",
+        "Yield 12 meses": "9,46",
         "Yield mensal": "19,49",
         "Último rendimento": "0,81",
         "Último rendimento calculado": "0.80"
@@ -1119,7 +1119,7 @@
     },
     {
         "Ticker": "CARE11",
-        "Cotação": "R$ 2,50",
+        "Cotação": "R$ 2,55",
         "Cotistas": "6,8K",
         "Liquidez média diária": "11,1K",
         "P/ VP": "0,07",
@@ -1128,7 +1128,7 @@
         "Yield 12 meses": "0,00",
         "Yield mensal": "1,62",
         "Último rendimento": "0,01",
-        "Último rendimento calculado": "0.40"
+        "Último rendimento calculado": "0.39"
     },
     {
         "Ticker": "CBOP11",
@@ -1158,13 +1158,13 @@
     },
     {
         "Ticker": "CCME11",
-        "Cotação": "R$ 8,84",
+        "Cotação": "R$ 8,80",
         "Cotistas": "9,5K",
         "Liquidez média diária": "202,4K",
-        "P/ VP": "0,84",
+        "P/ VP": "0,83",
         "Patrimônio líquido": "717,0M",
         "VP por Cota": "10,58",
-        "Yield 12 meses": "11,63",
+        "Yield 12 meses": "11,68",
         "Yield mensal": "15,23",
         "Último rendimento": "0,09",
         "Último rendimento calculado": "1.02"
@@ -1405,29 +1405,29 @@
     },
     {
         "Ticker": "CPSH11",
-        "Cotação": "R$ 9,64",
+        "Cotação": "R$ 9,67",
         "Cotistas": "38,3K",
         "Liquidez média diária": "1,2M",
         "P/ VP": "0,87",
         "Patrimônio líquido": "1,4B",
         "VP por Cota": "11,10",
-        "Yield 12 meses": "13,90",
+        "Yield 12 meses": "13,86",
         "Yield mensal": "0,34",
         "Último rendimento": "0,11",
         "Último rendimento calculado": "1.14"
     },
     {
         "Ticker": "CPTS11",
-        "Cotação": "R$ 7,48",
+        "Cotação": "R$ 7,46",
         "Cotistas": "392,5K",
         "Liquidez média diária": "7,1M",
         "P/ VP": "0,86",
         "Patrimônio líquido": "3,1B",
         "VP por Cota": "8,65",
-        "Yield 12 meses": "14,32",
+        "Yield 12 meses": "14,36",
         "Yield mensal": "1,83",
         "Último rendimento": "0,09",
-        "Último rendimento calculado": "1.20"
+        "Último rendimento calculado": "1.21"
     },
     {
         "Ticker": "CPUR11",
@@ -1522,13 +1522,13 @@
     },
     {
         "Ticker": "CXAG11",
-        "Cotação": "R$ 74,92",
+        "Cotação": "R$ 75,00",
         "Cotistas": "11,3K",
         "Liquidez média diária": "263,9K",
         "P/ VP": "0,68",
         "Patrimônio líquido": "231,5M",
         "VP por Cota": "110,72",
-        "Yield 12 meses": "11,61",
+        "Yield 12 meses": "11,60",
         "Yield mensal": "3,10",
         "Último rendimento": "0,72",
         "Último rendimento calculado": "0.96"
@@ -1665,13 +1665,13 @@
     },
     {
         "Ticker": "DEVA11",
-        "Cotação": "R$ 18,47",
+        "Cotação": "R$ 18,46",
         "Cotistas": "73,6K",
         "Liquidez média diária": "467,5K",
         "P/ VP": "0,20",
         "Patrimônio líquido": "1,3B",
         "VP por Cota": "94,49",
-        "Yield 12 meses": "21,77",
+        "Yield 12 meses": "21,78",
         "Yield mensal": "6,33",
         "Último rendimento": "0,34",
         "Último rendimento calculado": "1.84"
@@ -1977,13 +1977,13 @@
     },
     {
         "Ticker": "EXES11",
-        "Cotação": "R$ 9,56",
+        "Cotação": "R$ 9,57",
         "Cotistas": "2,3K",
         "Liquidez média diária": "78,2K",
         "P/ VP": "0,98",
         "Patrimônio líquido": "137,2M",
         "VP por Cota": "9,73",
-        "Yield 12 meses": "16,32",
+        "Yield 12 meses": "16,30",
         "Yield mensal": "1,58",
         "Último rendimento": "0,13",
         "Último rendimento calculado": "1.36"
@@ -2055,13 +2055,13 @@
     },
     {
         "Ticker": "FATN11",
-        "Cotação": "R$ 79,69",
+        "Cotação": "R$ 79,77",
         "Cotistas": "30,5K",
         "Liquidez média diária": "2,5M",
         "P/ VP": "0,82",
         "Patrimônio líquido": "664,8M",
         "VP por Cota": "97,15",
-        "Yield 12 meses": "12,05",
+        "Yield 12 meses": "12,03",
         "Yield mensal": "1,35",
         "Último rendimento": "0,80",
         "Último rendimento calculado": "1.00"
@@ -2107,13 +2107,13 @@
     },
     {
         "Ticker": "FIGS11",
-        "Cotação": "R$ 49,69",
+        "Cotação": "R$ 49,61",
         "Cotistas": "11,2K",
         "Liquidez média diária": "76,3K",
         "P/ VP": "0,71",
         "Patrimônio líquido": "199,8M",
         "VP por Cota": "70,12",
-        "Yield 12 meses": "11,63",
+        "Yield 12 meses": "11,65",
         "Yield mensal": "0,65",
         "Último rendimento": "0,50",
         "Último rendimento calculado": "1.01"
@@ -2146,16 +2146,16 @@
     },
     {
         "Ticker": "FIIP11",
-        "Cotação": "R$ 129,49",
+        "Cotação": "R$ 129,99",
         "Cotistas": "5,9K",
         "Liquidez média diária": "282,9K",
         "P/ VP": "0,65",
         "Patrimônio líquido": "185,1M",
         "VP por Cota": "199,69",
-        "Yield 12 meses": "13,00",
+        "Yield 12 meses": "12,95",
         "Yield mensal": "2,24",
         "Último rendimento": "1,42",
-        "Último rendimento calculado": "1.10"
+        "Último rendimento calculado": "1.09"
     },
     {
         "Ticker": "FINF11",
@@ -2406,13 +2406,13 @@
     },
     {
         "Ticker": "GARE11",
-        "Cotação": "R$ 8,15",
+        "Cotação": "R$ 8,17",
         "Cotistas": "535,5K",
         "Liquidez média diária": "9,9M",
         "P/ VP": "0,89",
         "Patrimônio líquido": "2,7B",
         "VP por Cota": "9,19",
-        "Yield 12 meses": "12,22",
+        "Yield 12 meses": "12,19",
         "Yield mensal": "1,31",
         "Último rendimento": "0,08",
         "Último rendimento calculado": "0.98"
@@ -2744,13 +2744,13 @@
     },
     {
         "Ticker": "HCRI11",
-        "Cotação": "R$ 271,00",
+        "Cotação": "R$ 270,27",
         "Cotistas": "3,0K",
         "Liquidez média diária": "44,4K",
         "P/ VP": "0,95",
         "Patrimônio líquido": "57,2M",
         "VP por Cota": "285,82",
-        "Yield 12 meses": "18,81",
+        "Yield 12 meses": "18,86",
         "Yield mensal": "2,93",
         "Último rendimento": "2,67",
         "Último rendimento calculado": "0.99"
@@ -2809,16 +2809,16 @@
     },
     {
         "Ticker": "HFOF11",
-        "Cotação": "R$ 6,33",
+        "Cotação": "R$ 6,36",
         "Cotistas": "91,6K",
         "Liquidez média diária": "2,3M",
         "P/ VP": "0,83",
         "Patrimônio líquido": "1,7B",
         "VP por Cota": "7,66",
-        "Yield 12 meses": "11,00",
+        "Yield 12 meses": "10,94",
         "Yield mensal": "1,09",
         "Último rendimento": "0,06",
-        "Último rendimento calculado": "0.95"
+        "Último rendimento calculado": "0.94"
     },
     {
         "Ticker": "HGBL11",
@@ -2835,26 +2835,26 @@
     },
     {
         "Ticker": "HGBS11",
-        "Cotação": "R$ 19,14",
+        "Cotação": "R$ 19,17",
         "Cotistas": "196,4K",
         "Liquidez média diária": "3,8M",
         "P/ VP": "0,94",
         "Patrimônio líquido": "2,9B",
         "VP por Cota": "20,30",
-        "Yield 12 meses": "9,98",
+        "Yield 12 meses": "9,96",
         "Yield mensal": "0,23",
         "Último rendimento": "0,17",
         "Último rendimento calculado": "0.89"
     },
     {
         "Ticker": "HGCR11",
-        "Cotação": "R$ 93,40",
+        "Cotação": "R$ 93,49",
         "Cotistas": "104,3K",
         "Liquidez média diária": "3,3M",
         "P/ VP": "0,96",
         "Patrimônio líquido": "1,5B",
         "VP por Cota": "97,47",
-        "Yield 12 meses": "12,69",
+        "Yield 12 meses": "12,68",
         "Yield mensal": "2,98",
         "Último rendimento": "0,95",
         "Último rendimento calculado": "1.02"
@@ -2887,13 +2887,13 @@
     },
     {
         "Ticker": "HGLG11",
-        "Cotação": "R$ 147,94",
+        "Cotação": "R$ 148,18",
         "Cotistas": "587,4K",
         "Liquidez média diária": "14,8M",
         "P/ VP": "0,89",
         "Patrimônio líquido": "7,6B",
         "VP por Cota": "166,60",
-        "Yield 12 meses": "8,92",
+        "Yield 12 meses": "8,91",
         "Yield mensal": "0,86",
         "Último rendimento": "1,10",
         "Último rendimento calculado": "0.74"
@@ -2913,7 +2913,7 @@
     },
     {
         "Ticker": "HGRE11",
-        "Cotação": "R$ 121,00",
+        "Cotação": "R$ 121,01",
         "Cotistas": "143,4K",
         "Liquidez média diária": "2,1M",
         "P/ VP": "0,83",
@@ -3134,29 +3134,29 @@
     },
     {
         "Ticker": "HSLG11",
-        "Cotação": "R$ 91,65",
+        "Cotação": "R$ 91,88",
         "Cotistas": "39,9K",
         "Liquidez média diária": "1,4M",
         "P/ VP": "0,83",
         "Patrimônio líquido": "1,4B",
         "VP por Cota": "110,20",
-        "Yield 12 meses": "9,30",
+        "Yield 12 meses": "9,27",
         "Yield mensal": "6,12",
         "Último rendimento": "0,74",
         "Último rendimento calculado": "0.81"
     },
     {
         "Ticker": "HSML11",
-        "Cotação": "R$ 86,50",
+        "Cotação": "R$ 86,94",
         "Cotistas": "190,0K",
         "Liquidez média diária": "4,1M",
-        "P/ VP": "0,86",
+        "P/ VP": "0,87",
         "Patrimônio líquido": "2,1B",
         "VP por Cota": "100,06",
-        "Yield 12 meses": "9,73",
+        "Yield 12 meses": "9,68",
         "Yield mensal": "1,35",
         "Último rendimento": "0,75",
-        "Último rendimento calculado": "0.87"
+        "Último rendimento calculado": "0.86"
     },
     {
         "Ticker": "HSRE11",
@@ -3251,13 +3251,13 @@
     },
     {
         "Ticker": "IBCR11",
-        "Cotação": "R$ 44,80",
+        "Cotação": "R$ 44,65",
         "Cotistas": "3,7K",
         "Liquidez média diária": "58,6K",
         "P/ VP": "0,51",
         "Patrimônio líquido": "0,00",
         "VP por Cota": "0,00",
-        "Yield 12 meses": "17,43",
+        "Yield 12 meses": "17,49",
         "Yield mensal": "0,98",
         "Último rendimento": "0,60",
         "Último rendimento calculado": "1.34"
@@ -3290,7 +3290,7 @@
     },
     {
         "Ticker": "ICRI11",
-        "Cotação": "R$ 92,00",
+        "Cotação": "R$ 92,02",
         "Cotistas": "12,8K",
         "Liquidez média diária": "707,3K",
         "P/ VP": "0,92",
@@ -3407,13 +3407,13 @@
     },
     {
         "Ticker": "IRIM11",
-        "Cotação": "R$ 65,30",
+        "Cotação": "R$ 65,24",
         "Cotistas": "203,1K",
         "Liquidez média diária": "2,8M",
         "P/ VP": "0,79",
         "Patrimônio líquido": "2,9B",
         "VP por Cota": "82,68",
-        "Yield 12 meses": "15,45",
+        "Yield 12 meses": "15,47",
         "Yield mensal": "5,17",
         "Último rendimento": "1,18",
         "Último rendimento calculado": "1.81"
@@ -3511,13 +3511,13 @@
     },
     {
         "Ticker": "JCCJ11",
-        "Cotação": "R$ 140,50",
+        "Cotação": "R$ 140,00",
         "Cotistas": "357,00",
         "Liquidez média diária": "313,6K",
-        "P/ VP": "0,71",
+        "P/ VP": "0,70",
         "Patrimônio líquido": "1,0B",
         "VP por Cota": "198,72",
-        "Yield 12 meses": "11,10",
+        "Yield 12 meses": "11,14",
         "Yield mensal": "0,50",
         "Último rendimento": "1,77",
         "Último rendimento calculado": "1.26"
@@ -3615,16 +3615,16 @@
     },
     {
         "Ticker": "JSAF11",
-        "Cotação": "R$ 7,19",
+        "Cotação": "R$ 7,16",
         "Cotistas": "26,5K",
         "Liquidez média diária": "1,3M",
-        "P/ VP": "0,79",
+        "P/ VP": "0,78",
         "Patrimônio líquido": "708,1M",
         "VP por Cota": "9,13",
-        "Yield 12 meses": "13,71",
+        "Yield 12 meses": "13,77",
         "Yield mensal": "22,00",
         "Último rendimento": "0,08",
-        "Último rendimento calculado": "1.11"
+        "Último rendimento calculado": "1.12"
     },
     {
         "Ticker": "JSCR11",
@@ -3641,13 +3641,13 @@
     },
     {
         "Ticker": "JSRE11",
-        "Cotação": "R$ 60,00",
+        "Cotação": "R$ 60,08",
         "Cotistas": "87,9K",
         "Liquidez média diária": "3,1M",
         "P/ VP": "0,59",
         "Patrimônio líquido": "2,1B",
         "VP por Cota": "101,64",
-        "Yield 12 meses": "9,60",
+        "Yield 12 meses": "9,59",
         "Yield mensal": "4,04",
         "Último rendimento": "0,48",
         "Último rendimento calculado": "0.80"
@@ -3732,29 +3732,29 @@
     },
     {
         "Ticker": "KISU11",
-        "Cotação": "R$ 6,43",
+        "Cotação": "R$ 6,46",
         "Cotistas": "103,5K",
         "Liquidez média diária": "449,3K",
         "P/ VP": "0,80",
         "Patrimônio líquido": "356,9M",
         "VP por Cota": "8,07",
-        "Yield 12 meses": "13,06",
+        "Yield 12 meses": "13,00",
         "Yield mensal": "3,53",
         "Último rendimento": "0,07",
-        "Último rendimento calculado": "1.09"
+        "Último rendimento calculado": "1.08"
     },
     {
         "Ticker": "KIVO11",
-        "Cotação": "R$ 56,86",
+        "Cotação": "R$ 56,65",
         "Cotistas": "7,2K",
         "Liquidez média diária": "402,3K",
         "P/ VP": "0,68",
         "Patrimônio líquido": "185,8M",
         "VP por Cota": "83,59",
-        "Yield 12 meses": "18,84",
+        "Yield 12 meses": "18,91",
         "Yield mensal": "28,49",
         "Último rendimento": "0,85",
-        "Último rendimento calculado": "1.49"
+        "Último rendimento calculado": "1.50"
     },
     {
         "Ticker": "KLOG11",
@@ -3784,7 +3784,7 @@
     },
     {
         "Ticker": "KNHF11",
-        "Cotação": "R$ 95,08",
+        "Cotação": "R$ 95,09",
         "Cotistas": "76,9K",
         "Liquidez média diária": "3,3M",
         "P/ VP": "0,96",
@@ -3810,13 +3810,13 @@
     },
     {
         "Ticker": "KNIP11",
-        "Cotação": "R$ 91,88",
+        "Cotação": "R$ 91,63",
         "Cotistas": "75,3K",
         "Liquidez média diária": "12,6M",
         "P/ VP": "1,00",
         "Patrimônio líquido": "7,4B",
         "VP por Cota": "92,06",
-        "Yield 12 meses": "10,89",
+        "Yield 12 meses": "10,92",
         "Yield mensal": "11,35",
         "Último rendimento": "1,12",
         "Último rendimento calculado": "1.22"
@@ -3862,26 +3862,26 @@
     },
     {
         "Ticker": "KNSC11",
-        "Cotação": "R$ 9,16",
+        "Cotação": "R$ 9,15",
         "Cotistas": "283,9K",
         "Liquidez média diária": "3,9M",
         "P/ VP": "1,05",
         "Patrimônio líquido": "1,8B",
         "VP por Cota": "8,70",
-        "Yield 12 meses": "12,45",
+        "Yield 12 meses": "12,46",
         "Yield mensal": "7,01",
         "Último rendimento": "0,10",
         "Último rendimento calculado": "1.09"
     },
     {
         "Ticker": "KNUQ11",
-        "Cotação": "R$ 105,24",
+        "Cotação": "R$ 105,19",
         "Cotistas": "59,6K",
         "Liquidez média diária": "4,3M",
         "P/ VP": "1,04",
         "Patrimônio líquido": "2,2B",
         "VP por Cota": "101,23",
-        "Yield 12 meses": "14,22",
+        "Yield 12 meses": "14,23",
         "Yield mensal": "9,57",
         "Último rendimento": "1,15",
         "Último rendimento calculado": "1.09"
@@ -3901,16 +3901,16 @@
     },
     {
         "Ticker": "KORE11",
-        "Cotação": "R$ 66,00",
+        "Cotação": "R$ 65,51",
         "Cotistas": "32,4K",
         "Liquidez média diária": "2,5M",
-        "P/ VP": "0,62",
+        "P/ VP": "0,61",
         "Patrimônio líquido": "1,0B",
         "VP por Cota": "107,16",
-        "Yield 12 meses": "16,82",
+        "Yield 12 meses": "16,94",
         "Yield mensal": "0,39",
         "Último rendimento": "0,60",
-        "Último rendimento calculado": "0.91"
+        "Último rendimento calculado": "0.92"
     },
     {
         "Ticker": "KRES11",
@@ -4200,7 +4200,7 @@
     },
     {
         "Ticker": "MCCI11",
-        "Cotação": "R$ 94,65",
+        "Cotação": "R$ 94,63",
         "Cotistas": "125,2K",
         "Liquidez média diária": "4,9M",
         "P/ VP": "1,01",
@@ -4252,16 +4252,16 @@
     },
     {
         "Ticker": "MCRE11",
-        "Cotação": "R$ 8,62",
+        "Cotação": "R$ 8,63",
         "Cotistas": "94,0K",
         "Liquidez média diária": "2,6M",
         "P/ VP": "0,85",
         "Patrimônio líquido": "1,1B",
         "VP por Cota": "10,15",
-        "Yield 12 meses": "15,31",
+        "Yield 12 meses": "15,30",
         "Yield mensal": "4,59",
         "Último rendimento": "0,11",
-        "Último rendimento calculado": "1.28"
+        "Último rendimento calculado": "1.27"
     },
     {
         "Ticker": "MFAI11",
@@ -4291,13 +4291,13 @@
     },
     {
         "Ticker": "MFII11",
-        "Cotação": "R$ 51,62",
+        "Cotação": "R$ 51,67",
         "Cotistas": "32,1K",
         "Liquidez média diária": "734,8K",
         "P/ VP": "0,53",
         "Patrimônio líquido": "665,4M",
         "VP por Cota": "97,85",
-        "Yield 12 meses": "23,81",
+        "Yield 12 meses": "23,79",
         "Yield mensal": "0,01",
         "Último rendimento": "0,91",
         "Último rendimento calculado": "1.76"
@@ -4902,13 +4902,13 @@
     },
     {
         "Ticker": "PCIP11",
-        "Cotação": "R$ 76,57",
+        "Cotação": "R$ 76,32",
         "Cotistas": "113,6K",
         "Liquidez média diária": "3,5M",
         "P/ VP": "0,83",
         "Patrimônio líquido": "1,6B",
         "VP por Cota": "91,88",
-        "Yield 12 meses": "14,22",
+        "Yield 12 meses": "14,27",
         "Yield mensal": "7,23",
         "Último rendimento": "1,07",
         "Último rendimento calculado": "1.40"
@@ -5006,13 +5006,13 @@
     },
     {
         "Ticker": "PMLL11",
-        "Cotação": "R$ 100,52",
+        "Cotação": "R$ 100,88",
         "Cotistas": "136,2K",
         "Liquidez média diária": "5,2M",
         "P/ VP": "0,85",
         "Patrimônio líquido": "2,1B",
         "VP por Cota": "118,10",
-        "Yield 12 meses": "11,10",
+        "Yield 12 meses": "11,06",
         "Yield mensal": "2,79",
         "Último rendimento": "1,00",
         "Último rendimento calculado": "0.99"
@@ -5214,7 +5214,7 @@
     },
     {
         "Ticker": "PVBI11",
-        "Cotação": "R$ 72,38",
+        "Cotação": "R$ 72,37",
         "Cotistas": "182,9K",
         "Liquidez média diária": "3,6M",
         "P/ VP": "0,69",
@@ -5487,16 +5487,16 @@
     },
     {
         "Ticker": "RBRL11",
-        "Cotação": "R$ 72,50",
+        "Cotação": "R$ 72,99",
         "Cotistas": "16,7K",
         "Liquidez média diária": "503,7K",
-        "P/ VP": "0,76",
+        "P/ VP": "0,77",
         "Patrimônio líquido": "636,2M",
         "VP por Cota": "95,14",
-        "Yield 12 meses": "11,79",
+        "Yield 12 meses": "11,71",
         "Yield mensal": "9,17",
         "Último rendimento": "0,60",
-        "Último rendimento calculado": "0.83"
+        "Último rendimento calculado": "0.82"
     },
     {
         "Ticker": "RBRM11",
@@ -5513,26 +5513,26 @@
     },
     {
         "Ticker": "RBRP11",
-        "Cotação": "R$ 46,85",
+        "Cotação": "R$ 46,90",
         "Cotistas": "53,5K",
         "Liquidez média diária": "1,3M",
         "P/ VP": "0,59",
         "Patrimônio líquido": "963,0M",
         "VP por Cota": "79,07",
-        "Yield 12 meses": "10,25",
+        "Yield 12 meses": "10,23",
         "Yield mensal": "3,87",
         "Último rendimento": "0,40",
         "Último rendimento calculado": "0.85"
     },
     {
         "Ticker": "RBRR11",
-        "Cotação": "R$ 76,50",
+        "Cotação": "R$ 76,59",
         "Cotistas": "143,6K",
         "Liquidez média diária": "5,1M",
         "P/ VP": "0,83",
         "Patrimônio líquido": "1,5B",
         "VP por Cota": "92,06",
-        "Yield 12 meses": "12,98",
+        "Yield 12 meses": "12,97",
         "Yield mensal": "2,55",
         "Último rendimento": "0,98",
         "Último rendimento calculado": "1.28"
@@ -5565,29 +5565,29 @@
     },
     {
         "Ticker": "RBRX11",
-        "Cotação": "R$ 7,75",
+        "Cotação": "R$ 7,74",
         "Cotistas": "126,4K",
         "Liquidez média diária": "2,3M",
         "P/ VP": "0,83",
         "Patrimônio líquido": "1,4B",
         "VP por Cota": "9,33",
-        "Yield 12 meses": "13,94",
+        "Yield 12 meses": "13,95",
         "Yield mensal": "1,89",
         "Último rendimento": "0,09",
         "Último rendimento calculado": "1.16"
     },
     {
         "Ticker": "RBRY11",
-        "Cotação": "R$ 87,12",
+        "Cotação": "R$ 87,40",
         "Cotistas": "77,1K",
         "Liquidez média diária": "4,2M",
-        "P/ VP": "0,86",
+        "P/ VP": "0,87",
         "Patrimônio líquido": "1,3B",
         "VP por Cota": "100,73",
-        "Yield 12 meses": "15,75",
+        "Yield 12 meses": "15,70",
         "Yield mensal": "4,17",
         "Último rendimento": "1,00",
-        "Último rendimento calculado": "1.15"
+        "Último rendimento calculado": "1.14"
     },
     {
         "Ticker": "RBTS11",
@@ -5604,13 +5604,13 @@
     },
     {
         "Ticker": "RBVA11",
-        "Cotação": "R$ 8,97",
+        "Cotação": "R$ 8,96",
         "Cotistas": "92,8K",
         "Liquidez média diária": "1,8M",
         "P/ VP": "0,84",
         "Patrimônio líquido": "1,8B",
         "VP por Cota": "10,67",
-        "Yield 12 meses": "12,04",
+        "Yield 12 meses": "12,05",
         "Yield mensal": "1,36",
         "Último rendimento": "0,09",
         "Último rendimento calculado": "1.00"
@@ -5799,13 +5799,13 @@
     },
     {
         "Ticker": "RECR11",
-        "Cotação": "R$ 80,56",
+        "Cotação": "R$ 80,32",
         "Cotistas": "174,6K",
         "Liquidez média diária": "2,9M",
         "P/ VP": "0,93",
         "Patrimônio líquido": "2,3B",
         "VP por Cota": "86,48",
-        "Yield 12 meses": "13,33",
+        "Yield 12 meses": "13,37",
         "Yield mensal": "1,43",
         "Último rendimento": "1,08",
         "Último rendimento calculado": "1.34"
@@ -6020,13 +6020,13 @@
     },
     {
         "Ticker": "RZAK11",
-        "Cotação": "R$ 79,91",
+        "Cotação": "R$ 79,92",
         "Cotistas": "44,1K",
         "Liquidez média diária": "1,2M",
         "P/ VP": "0,91",
         "Patrimônio líquido": "774,0M",
         "VP por Cota": "87,88",
-        "Yield 12 meses": "16,46",
+        "Yield 12 meses": "16,45",
         "Yield mensal": "5,10",
         "Último rendimento": "1,05",
         "Último rendimento calculado": "1.31"
@@ -6072,13 +6072,13 @@
     },
     {
         "Ticker": "RZTR11",
-        "Cotação": "R$ 86,42",
+        "Cotação": "R$ 86,18",
         "Cotistas": "146,3K",
         "Liquidez média diária": "2,9M",
-        "P/ VP": "0,89",
+        "P/ VP": "0,88",
         "Patrimônio líquido": "1,8B",
         "VP por Cota": "97,61",
-        "Yield 12 meses": "13,77",
+        "Yield 12 meses": "13,81",
         "Yield mensal": "2,61",
         "Último rendimento": "0,90",
         "Último rendimento calculado": "1.04"
@@ -6384,16 +6384,16 @@
     },
     {
         "Ticker": "SMRE11",
-        "Cotação": "R$ 55,39",
+        "Cotação": "R$ 55,69",
         "Cotistas": "1,2K",
         "Liquidez média diária": "101,9K",
         "P/ VP": "0,53",
         "Patrimônio líquido": "104,1M",
         "VP por Cota": "104,32",
-        "Yield 12 meses": "22,18",
+        "Yield 12 meses": "22,06",
         "Yield mensal": "1,37",
         "Último rendimento": "1,00",
-        "Último rendimento calculado": "1.81"
+        "Último rendimento calculado": "1.80"
     },
     {
         "Ticker": "SNCI11",
@@ -6410,29 +6410,29 @@
     },
     {
         "Ticker": "SNEL11",
-        "Cotação": "R$ 8,38",
+        "Cotação": "R$ 8,36",
         "Cotistas": "112,7K",
         "Liquidez média diária": "6,1M",
         "P/ VP": "1,04",
         "Patrimônio líquido": "888,7M",
         "VP por Cota": "8,03",
-        "Yield 12 meses": "14,32",
+        "Yield 12 meses": "14,35",
         "Yield mensal": "3,64",
         "Último rendimento": "0,10",
-        "Último rendimento calculado": "1.19"
+        "Último rendimento calculado": "1.20"
     },
     {
         "Ticker": "SNFF11",
-        "Cotação": "R$ 72,94",
+        "Cotação": "R$ 73,10",
         "Cotistas": "25,4K",
         "Liquidez média diária": "316,4K",
-        "P/ VP": "0,85",
+        "P/ VP": "0,86",
         "Patrimônio líquido": "343,0M",
         "VP por Cota": "85,32",
-        "Yield 12 meses": "14,04",
+        "Yield 12 meses": "14,01",
         "Yield mensal": "5,01",
         "Último rendimento": "1,10",
-        "Último rendimento calculado": "1.51"
+        "Último rendimento calculado": "1.50"
     },
     {
         "Ticker": "SNLG11",
@@ -6735,16 +6735,16 @@
     },
     {
         "Ticker": "TEPP11",
-        "Cotação": "R$ 7,90",
+        "Cotação": "R$ 7,91",
         "Cotistas": "45,4K",
         "Liquidez média diária": "1,3M",
         "P/ VP": "0,83",
         "Patrimônio líquido": "472,0M",
         "VP por Cota": "9,51",
-        "Yield 12 meses": "14,45",
+        "Yield 12 meses": "14,43",
         "Yield mensal": "4,30",
         "Último rendimento": "0,13",
-        "Último rendimento calculado": "1.65"
+        "Último rendimento calculado": "1.64"
     },
     {
         "Ticker": "TFOF11",
@@ -6761,13 +6761,13 @@
     },
     {
         "Ticker": "TGAR11",
-        "Cotação": "R$ 50,64",
+        "Cotação": "R$ 50,75",
         "Cotistas": "132,4K",
         "Liquidez média diária": "4,1M",
         "P/ VP": "0,47",
         "Patrimônio líquido": "2,5B",
         "VP por Cota": "108,03",
-        "Yield 12 meses": "20,36",
+        "Yield 12 meses": "20,32",
         "Yield mensal": "0,19",
         "Último rendimento": "0,72",
         "Último rendimento calculado": "1.42"
@@ -6813,16 +6813,16 @@
     },
     {
         "Ticker": "TOPP11",
-        "Cotação": "R$ 67,27",
+        "Cotação": "R$ 67,91",
         "Cotistas": "4,4K",
         "Liquidez média diária": "684,5K",
         "P/ VP": "0,62",
         "Patrimônio líquido": "494,5M",
         "VP por Cota": "109,21",
-        "Yield 12 meses": "15,15",
+        "Yield 12 meses": "15,01",
         "Yield mensal": "3,12",
         "Último rendimento": "0,95",
-        "Último rendimento calculado": "1.41"
+        "Último rendimento calculado": "1.40"
     },
     {
         "Ticker": "TORD11",
@@ -6865,16 +6865,16 @@
     },
     {
         "Ticker": "TRBL11",
-        "Cotação": "R$ 56,49",
+        "Cotação": "R$ 56,30",
         "Cotistas": "41,8K",
         "Liquidez média diária": "1,1M",
         "P/ VP": "0,73",
         "Patrimônio líquido": "593,6M",
         "VP por Cota": "76,70",
-        "Yield 12 meses": "18,08",
+        "Yield 12 meses": "18,05",
         "Yield mensal": "7,12",
         "Último rendimento": "2,68",
-        "Último rendimento calculado": "4.74"
+        "Último rendimento calculado": "4.76"
     },
     {
         "Ticker": "TRNT11",
@@ -6930,16 +6930,16 @@
     },
     {
         "Ticker": "TRXF11",
-        "Cotação": "R$ 91,21",
+        "Cotação": "R$ 91,10",
         "Cotistas": "313,6K",
         "Liquidez média diária": "16,7M",
         "P/ VP": "0,93",
         "Patrimônio líquido": "6,1B",
         "VP por Cota": "98,33",
-        "Yield 12 meses": "12,94",
+        "Yield 12 meses": "12,95",
         "Yield mensal": "2,04",
         "Último rendimento": "1,50",
-        "Último rendimento calculado": "1.64"
+        "Último rendimento calculado": "1.65"
     },
     {
         "Ticker": "TRXY11",
@@ -6995,13 +6995,13 @@
     },
     {
         "Ticker": "TVRI11",
-        "Cotação": "R$ 91,33",
+        "Cotação": "R$ 91,36",
         "Cotistas": "57,5K",
         "Liquidez média diária": "858,5K",
         "P/ VP": "0,91",
         "Patrimônio líquido": "1,6B",
         "VP por Cota": "100,53",
-        "Yield 12 meses": "13,80",
+        "Yield 12 meses": "13,79",
         "Yield mensal": "2,48",
         "Último rendimento": "1,05",
         "Último rendimento calculado": "1.15"
@@ -7047,13 +7047,13 @@
     },
     {
         "Ticker": "VCJR11",
-        "Cotação": "R$ 71,99",
+        "Cotação": "R$ 72,00",
         "Cotistas": "32,5K",
         "Liquidez média diária": "2,5M",
         "P/ VP": "0,78",
         "Patrimônio líquido": "1,4B",
         "VP por Cota": "92,26",
-        "Yield 12 meses": "16,02",
+        "Yield 12 meses": "16,01",
         "Yield mensal": "8,98",
         "Último rendimento": "1,25",
         "Último rendimento calculado": "1.74"
@@ -7177,16 +7177,16 @@
     },
     {
         "Ticker": "VGRI11",
-        "Cotação": "R$ 5,60",
+        "Cotação": "R$ 5,64",
         "Cotistas": "25,2K",
         "Liquidez média diária": "260,2K",
         "P/ VP": "0,65",
         "Patrimônio líquido": "302,3M",
         "VP por Cota": "8,63",
-        "Yield 12 meses": "22,50",
+        "Yield 12 meses": "22,34",
         "Yield mensal": "3,55",
         "Último rendimento": "0,07",
-        "Último rendimento calculado": "1.25"
+        "Último rendimento calculado": "1.24"
     },
     {
         "Ticker": "VIDS11",
@@ -7242,7 +7242,7 @@
     },
     {
         "Ticker": "VISC11",
-        "Cotação": "R$ 104,90",
+        "Cotação": "R$ 104,89",
         "Cotistas": "347,2K",
         "Liquidez média diária": "4,9M",
         "P/ VP": "0,91",
@@ -7398,13 +7398,13 @@
     },
     {
         "Ticker": "VSHO11",
-        "Cotação": "R$ 73,07",
+        "Cotação": "R$ 73,22",
         "Cotistas": "2,8K",
         "Liquidez média diária": "13,6K",
         "P/ VP": "0,62",
         "Patrimônio líquido": "249,1M",
         "VP por Cota": "118,70",
-        "Yield 12 meses": "11,17",
+        "Yield 12 meses": "11,14",
         "Yield mensal": "0,96",
         "Último rendimento": "0,70",
         "Último rendimento calculado": "0.96"
@@ -7671,13 +7671,13 @@
     },
     {
         "Ticker": "XPCI11",
-        "Cotação": "R$ 82,70",
+        "Cotação": "R$ 82,55",
         "Cotistas": "83,4K",
         "Liquidez média diária": "1,7M",
         "P/ VP": "0,95",
         "Patrimônio líquido": "758,0M",
         "VP por Cota": "87,11",
-        "Yield 12 meses": "13,14",
+        "Yield 12 meses": "13,17",
         "Yield mensal": "5,51",
         "Último rendimento": "0,95",
         "Último rendimento calculado": "1.15"
@@ -7710,7 +7710,7 @@
     },
     {
         "Ticker": "XPLG11",
-        "Cotação": "R$ 90,81",
+        "Cotação": "R$ 90,80",
         "Cotistas": "347,3K",
         "Liquidez média diária": "8,7M",
         "P/ VP": "0,86",
@@ -7723,7 +7723,7 @@
     },
     {
         "Ticker": "XPML11",
-        "Cotação": "R$ 104,56",
+        "Cotação": "R$ 104,50",
         "Cotistas": "733,1K",
         "Liquidez média diária": "14,0M",
         "P/ VP": "0,95",
@@ -7749,16 +7749,16 @@
     },
     {
         "Ticker": "XPSF11",
-        "Cotação": "R$ 6,16",
+        "Cotação": "R$ 6,18",
         "Cotistas": "53,8K",
         "Liquidez média diária": "285,5K",
         "P/ VP": "0,81",
         "Patrimônio líquido": "331,2M",
         "VP por Cota": "7,65",
-        "Yield 12 meses": "13,31",
+        "Yield 12 meses": "13,27",
         "Yield mensal": "3,46",
         "Último rendimento": "0,07",
-        "Último rendimento calculado": "1.14"
+        "Último rendimento calculado": "1.13"
     },
     {
         "Ticker": "YEES11",
